@@ -1,4 +1,4 @@
-[Currículo!](http://aboutme.mywebcommunity.org/)
+## [Currículo!](http://aboutme.mywebcommunity.org/)
 
 <ul>
   <li>1ª versão do meu currículo, codificado em HTML e CSS</li>
